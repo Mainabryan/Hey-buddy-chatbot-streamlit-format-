@@ -1,2 +1,19 @@
-# Hey-buddy-chatbot-streamlit-format-
-.Agro ML Chatbot is an intelligent assistant for agro-product sellers, built with NLP and semantic search. It understands English and Swahili queries, retrieves accurate answers from a knowledge base, and runs on Streamlit for a smooth user experience. Ideal for showcasing practical ML and chatbot integration.
+# 🌾 Agro ML Chatbot
+
+An AI-powered chatbot designed to assist agro-product sellers by answering common questions about seeds, fertilizers, animal feeds, pesticides, and agro tools. This chatbot supports both English and Swahili and is built using Machine Learning and NLP techniques to deliver accurate, context-aware responses.
+
+---
+
+## 🚀 Features
+
+- ✅ Multilingual support (English & Swahili)
+- 🔍 Semantic search with sentence embeddings
+- 🧠 NLP-based intent understanding
+- 📦 Agro product FAQ knowledge base
+- 💬 Streamlit interface for clean user experience
+- 🔁 Feedback-ready loop for continued interaction
+
+---
+
+## 📂 Project Structure
+
